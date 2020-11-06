@@ -24,8 +24,8 @@ See tasks for the user stories.
 
 ## Acceptance Criteria
 
-- its own project on your laptop and Github
-- be git tracked
-- have 5 commits mininum!
-- has documentation
-- follows best practices
+- [x] ~~its own project on your laptop and Github~~
+- [x] ~~be git tracked~~
+- [x] ~~have 5 commits mininum!~~
+- [x] ~~has documentation~~
+- [x] ~~follows best practices~~
